@@ -56,6 +56,9 @@ Hey! I'm **Ash**. I'm an Internet Creative Person from the Netherlands. Here's s
 - *"please get some fucking sleep, like, ever"*
 - *"pretty cool, but uses made-up quotes too much"*
 	
-I cannot <i>possibly</i> sit still. They thought giving me medication would make me chill out, but the <i><b>joke's on them</b></i>. It just made me able to do the laundry in-between constantly churning out projects.<br>
+I cannot <i>possibly</i> sit still. They thought giving me medication would make me chill out, but the <i><b>joke's on them</b></i>. It just made me able to do the laundry in-between constantly churning out projects. <br>
 	<br>
-	You can keep track of what I'm up to on any given day via <b><a href="https://twitter.com/estroBiologist">Twitter</a></b>.
+	Speaking of which, I have to go do the laundry. But you can keep track of what I'm up to on any given day via <b><a href="https://twitter.com/estroBiologist">Twitter</a></b>.<br>
+	<br>
+	Thanks for reading! <i>-Ash</i>
+</details>
