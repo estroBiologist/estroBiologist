@@ -11,16 +11,16 @@ Hey! I'm **Ash**. I'm an Internet Creative Person from the Netherlands. Here's s
 <details>
 	<summary>⭕ I'm making <b>CHORDIOID</b></summary>
 	<br>
-	<a href="https://chordioid.com"><b>CHORDIOID: Prelude</b></a> is a rhythm RPG I've been working on for the past year, as the lead developer, musician, artist, designer, writer...<br>
+	<b>CHORDIOID: Prelude</b> is a musical adventure game I've been working on for the past year, as the lead developer, musician, artist, designer, writer...<br>
 	<br>
-	It's the first part of a bigger multimedia undertaking known collectively as <b>CHORDIOID</b>, which I hope to one day, in my wildest dreams, actually finish.<br>
+	It's the first part of a bigger episodic story known collectively as <b>CHORDIOID</b>, which I hope to one day, in my wildest dreams, actually finish.<br>
 	<br>
 </details>
 
 <details>
 	<summary>📺 I'm on the <b>Vast Error Music Team</b></summary>
 	<br>
-	As of February 2022, I'm a musician for the webcomic <a href="https://www.deconreconstruction.com/"><b>Vast Error</b></a>. I still can't quite believe it! I'm honoured and super stoked to be working with so many ridiculously talented creatives.<br>
+	As of 2022, I'm a musician for the webcomic <a href="https://www.deconreconstruction.com/"><b>Vast Error</b></a>. I still can't quite believe it! I'm honoured and super stoked to be working with so many ridiculously talented creatives.<br>
 	<br>
 	You should read the comic if you haven't, it's pretty freaking cool! <i>(If you ask me, though, start with <b><a href="https://deconreconstruction.itch.io/snowbound-blood">Snowbound Blood</a></b>.)</i><br>
 	<br>
