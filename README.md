@@ -1,5 +1,5 @@
 <p align="center"><a href="https://estroBiologist.carrd.co/"><img src="https://media.discordapp.net/attachments/857262465876099083/947078280182398996/ashtaylor.png"></a><br>
-	- they/them -
+	- they/she -
 </p>
 
 ---
