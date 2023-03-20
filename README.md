@@ -42,7 +42,7 @@ Hey! I'm **Ash**. I'm an Internet Creative Person from the Netherlands. Here's s
 	<br>
 	<b><a href="https://www.github.com/estroBiologist/pluralchum">Pluralchum</a></b> is a BetterDiscord plugin that provides improved integration with PluralKit, adding things like proper name and text colours to the mix.<br>
 	<br>
-	I made it as a "fun" learning exercise in the span of a few days, and what I learned is that people who use JavaScript regularly are fucking unhinged.<br>
+	I made it as a "fun" learning exercise in the span of a few days, and what I learned is that people who use JavaScript regularly are terrifying.<br>
 	<br>
 </details>
 
