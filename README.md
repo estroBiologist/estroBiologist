@@ -9,6 +9,15 @@ Hey! I'm **Ash**. I'm an Internet Creative Person from the Netherlands. Here's s
 *(Click to expand!)*
 <br>
 <details>
+	<summary>💻 I'm developing <b>comune</b></summary>
+	<br>
+	<b>comune</b> is an experimental C++ successor language focused on performance, ease of use, and static memory safety. I've been developing the LLVM-based compiler solo since July 2022, and I'm very proud of how it's coming along!<br>
+	<br>
+	Although still a work-in-progress, the <a href="https://github.com/comune-lang/comune">repository</a> is publicly available for you to check out!<br>
+	<br>
+</details>
+
+<details>
 	<summary>⭕ I'm making <b>CHORDIOID</b></summary>
 	<br>
 	<b>CHORDIOID: Prelude</b> is a musical adventure game I've been working on for the past year, as the lead developer, musician, artist, designer, writer...<br>
